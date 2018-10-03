@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../build-info/info.iml" filepath="$PROJECT_DIR$/../build-info/info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../build-info/info-common/info-common.iml" filepath="$PROJECT_DIR$/../build-info/info-common/info-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../build-info/info-dao/info-dao.iml" filepath="$PROJECT_DIR$/../build-info/info-dao/info-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../build-info/info-service/info-service.iml" filepath="$PROJECT_DIR$/../build-info/info-service/info-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/info-web.iml" filepath="$PROJECT_DIR$/info-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="info-web:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="org.wong.info.war">
+      <element id="artifact" artifact-name="info-web:war exploded" />
+    </root>
+  </artifact>
+</component>

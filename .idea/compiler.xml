@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="info-common" />
+        <module name="info-dao" />
+        <module name="info-service" />
+        <module name="info-web" />
+        <module name="org.wong.info" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="info" target="1.5" />
+      <module name="info-api" target="1.7" />
+      <module name="info-common" target="1.5" />
+      <module name="info-dao" target="1.5" />
+      <module name="info-service" target="1.5" />
+      <module name="info-web" target="1.5" />
+      <module name="info-web (1) (org.wong.info)" target="1.5" />
+      <module name="oblivion" target="1.5" />
+      <module name="org.wong.info" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
